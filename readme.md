@@ -1,110 +1,110 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Roadmap de Carreira – Engenharia de Dados
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## 📋 Entrevista Inicial
+- Gosta de **entender sistemas**  
+- Está **começando do zero** na área de tecnologia  
+- Disponibilidade: **18 horas por semana**  
+- Preferência: **dados**  
+- Objetivo: **transição de carreira dentro do banco**  
+- Interesses: **dados, inteligência artificial, redes, armazenamento em nuvem**  
+- Experiência prévia: **8 anos no banco (agências e superintendência)**  
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🎯 Sugestão de Carreiras
+1. **Cientista de Dados** – 18/20  
+2. **Engenheiro de Dados** – 17/20  
+3. **Engenheiro de Machine Learning** – 15/20  
 
-<br/>
-<br/>
+➡️ Escolha final: **Engenheiro de Dados**
 
-## 💻 Sobre o Projeto
+---
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+## 🧩 Visão do Dia a Dia
+- Construir e manter pipelines de dados  
+- Integrar diferentes fontes de informação  
+- Garantir qualidade, segurança e governança dos dados  
+- Trabalhar com soluções em nuvem  
+- Colaborar com cientistas e analistas de dados  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+---
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+## 🧠 Mapa de Skills
+**Core Skills:**  
+- SQL e modelagem de dados  
+- Python para manipulação e automação  
+- Fundamentos de Cloud  
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+**Nice-to-Have:**  
+- NoSQL  
+- Big Data (Spark, Hadoop)  
 
-- _Exemplo_:
+**Ferramentas:**  
+- SQL Server / PostgreSQL  
+- Python (Pandas, PySpark)  
+- AWS S3, Azure Data Lake, BigQuery  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 📅 Roadmap de 90 Dias (18h/semana)
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+### Mês 1 – Fundamentos
+- **Semana 1-2:** Python básico, SQL básico, Redes (OSI/TCP-IP)  
+- **Semana 3-4:** Modelagem de dados, Cloud Computing, Redes (HTTP/DNS)  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+### Mês 2 – Prática
+- **Semana 5-6:** ETLs com Python + SQL, Pandas, Redes (Segurança)  
+- **Semana 7-8:** Data Warehousing, Spark/PySpark, Redes (VPC/Subnets)  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+### Mês 3 – Portfólio e Preparação
+- **Semana 9-10:** Pipeline de dados em nuvem, documentação, Redes (latência e distribuição)  
+- **Semana 11-12:** Publicar projeto no GitHub, simular entrevistas, Redes (diagrama de arquitetura)  
 
-  - [Subhabilidades relacionadas, se aplicável]
+---
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+## 🚀 Projeto de Portfólio
+**Projeto:** Pipeline de Dados Financeiros  
 
-## 🎯 Objetivos e Resultados Esperados
+**Entregáveis:**  
+- Script Python para ingestão  
+- Banco SQL estruturado  
+- Dashboard em Power BI/Tableau  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+**Critérios:**  
+- Pipeline automatizado  
+- Dados limpos e consistentes  
+- Documentação clara no GitHub  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
-<!--START_SECTION:footer-->
+## 💬 Roteiro de Entrevistas
+1. Diferença entre banco relacional e NoSQL  
+2. Como garantir qualidade dos dados em pipeline  
+3. Experiência com SQL (JOINs, agregações)  
+4. Experiência com nuvem  
+5. Como lidar com grandes volumes de dados  
 
-<br />
-<br />
+---
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+## 🎓 Trilha DIO Recomendada
+**Bootcamp:** Engenharia de Dados com Python (DIO)  
+
+**Passos:**  
+1. Acesse [dio.me](https://dio.me)  
+2. Busque por "Engenharia de Dados com Python"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+## 🌐 Mini-Módulo de Redes
+**Conteúdos:** TCP/IP, protocolos, segurança, redes em nuvem, latência  
+**Projeto Extra:** Diagrama de arquitetura de dados em nuvem com componentes de rede  
+
+---
+
+✨ **Resultado esperado em 90 dias:**  
+- Pipeline de dados em nuvem funcionando  
+- Diagrama de arquitetura de rede documentado  
+- Portfólio publicado no GitHub  
+- Preparação para entrevistas técnicas
