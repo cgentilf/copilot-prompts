@@ -1,1 +1,107 @@
+# 🚀 Simulação de Entrevista – Dev Júnior C#
+
+## 📌 Contexto da Vaga
+- **Título:** Desenvolvedor Júnior C#  
+- **Senioridade:** Júnior  
+- **Stack essencial:**  
+  - C#  
+  - Entity Framework  
+  - SQL  
+- **Soft Skills valorizados:**  
+  - Comunicação clara  
+  - Transparência  
+
+---
+
+## 🗣️ Entrevista Simulada
+
+### Pergunta 1  
+**Conte sobre um projeto em que utilizou C#.**  
+➡️ Desenvolvi um sistema de cadastro para a padaria da minha rua e um controle de estoque para uma loja de peças de carro da minha cidade.  
+
+---
+
+### Pergunta 2  
+**Como utilizou Entity Framework e SQL nesses projetos?**  
+➡️ Utilizei para conectar com a base SQL Server.  
+
+---
+
+### Pergunta 3  
+**Como você usaria comunicação e transparência para lidar com uma funcionalidade que não funciona como esperado?**  
+➡️ Tive problemas com banco em Cloud e precisei solicitar ao admin de infra que incluísse meu IP na regra do Firewall para liberar o acesso.  
+
+---
+
+### Pergunta 4  
+**Se precisasse otimizar uma consulta SQL lenta, quais estratégias aplicaria?**  
+➡️ Simplificar a consulta, reduzir joins, melhorar índices e criar consultas mais diretas.  
+
+---
+
+### Pergunta 5  
+**Como você lida com situações em que precisa aprender algo novo rapidamente?**  
+➡️ Primeiro entendo os conceitos, depois busco prática guiada, experimento sozinho e mensuro erros e acertos para consolidar o conhecimento.  
+
+---
+
+## 📊 Diagnóstico Final
+
+### ✅ Pontos Fortes
+- Experiência prática inicial com C#.  
+- Integração com SQL Server via Entity Framework.  
+- Comunicação clara e transparência.  
+- Estratégia estruturada de aprendizado.  
+
+### 📈 Pontos a Evoluir
+- SQL avançado (joins, índices, normalização).  
+- Entity Framework mais profundo (migrations, LINQ avançado).  
+- Arquitetura básica (MVC, camadas).  
+- Testes unitários em C#.  
+- Noções de Cloud e DevOps básicos.  
+
+---
+
+## 📅 Plano de Estudos – 30 dias (1h/dia)
+
+### 🔹 Semana 1 – Fundamentos de C#
+- Revisão de sintaxe, classes, objetos, herança.  
+- 🎥 Vídeo: *C# Basics for Beginners* (YouTube – Simplilearn).  
+- Exercício: mini sistema de cadastro.  
+
+---
+
+### 🔹 Semana 2 – SQL Essentials
+- SELECT, WHERE, ORDER BY, LIMIT/TOP.  
+- 🎥 Curso SQL Básico (YouTube – freeCodeCamp).  
+- Joins, agregações, índices.  
+- Exercício: criar e consultar tabelas de estoque.  
+
+---
+
+### 🔹 Semana 3 – Entity Framework Core
+- Configuração de contexto, CRUD com LINQ.  
+- 🎥 Playlist *Entity Framework Core* (YouTube).  
+- Migrations e relacionamentos.  
+- Exercício: sistema de tarefas com EF Core.  
+
+---
+
+### 🔹 Semana 4 – Consolidação e Boas Práticas
+- Padrão MVC e camadas.  
+- Testes unitários com xUnit.  
+- Otimização de consultas.  
+- Deploy simples em ambiente local ou cloud.  
+- Projeto final: mini API REST em C# com EF Core e SQL.  
+
+---
+
+## 🎯 Recomendações
+- Publicar projetos no GitHub.  
+- Participar de comunidades (Stack Overflow, LinkedIn).  
+- Aplicar boas práticas de C# (Clean Code, SOLID introdutório).  
+
+---
+
+👉 Com esse plano, você terá uma base sólida em C#, SQL e Entity Framework, além de mostrar disciplina e evolução contínua.  
 
